@@ -1,8 +1,3 @@
-// import { initializeApp } from "firebase/app";
-// import { getAnalytics } from "firebase/analytics";
-
-// import firebase from 'firebase';
-
 const firebase = require('firebase');
 
 const firebaseConfig = {
